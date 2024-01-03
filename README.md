@@ -1,4 +1,3 @@
 # Computer-Vision
 
-## Django -> Backend
-## Front -> Frontend (Reqact application)
+## THIS IS A TESTING BRANCH. DEFAULT BRANCH IS MASTER
