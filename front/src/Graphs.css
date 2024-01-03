@@ -1,0 +1,49 @@
+.nodetitle{
+
+    margin-bottom:50px;
+    margin-left: 100px;
+}
+
+.axis{
+    font-size:80px;
+    height:200px;
+    margin-top:120px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.axisy{
+    font-size:80px;
+    height:200px;
+    margin-top:120px;
+    margin-left: 50px;
+    /* margin-right: 50px; */
+}
+
+.graphx{
+    width: 700px;
+    margin-bottom:80px;
+}
+.graphy{
+    width: 700px;
+    margin-bottom:80px;
+    margin-left: 5vw;
+    
+}
+
+.Y{
+    display:flex;
+    width: 100%;
+    left: 50%;
+}
+.desy{
+    margin-left: 7vw;
+    font-size: 40px;
+    top: 30%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.line{
+    color:red;
+    
+    background-color:red
+}
